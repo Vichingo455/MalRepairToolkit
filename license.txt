@@ -1,0 +1,5 @@
+Malware Repair Toolkit
+Copyright ©️ 2022 Vichingo455. All rights reserved.
+Permission to use is granted if the user uses this program without cracking it or leaking the credentials on Internet.
+This program is made with the only purpouse to fix malware damages. Other uses are severally forbidden and
+may cause an instant revocation of the account and the license
